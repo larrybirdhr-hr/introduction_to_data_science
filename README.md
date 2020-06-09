@@ -2,7 +2,7 @@
 
 ## Project Motivation
 
-Boston and Seatle Airbnb datasets were collected and investigated using Cross-Industry Standard Process of Data Mining (CRISP-DM). Three bisinuess questions were asked and answered:
+Boston and Seatle Airbnb datasets were collected and investigated using Cross-Industry Standard Process of Data Mining (CRISP-DM). Three bisinuess questions were asked and answered: <br>
 
 1): Are there significant difference between Boston and Seattle Airbnb data?
 2): What features are most dominant to determine the rental price in both markets?
@@ -15,7 +15,7 @@ https://www.kaggle.com/airbnb/boston?select=listings.csv
 https://www.kaggle.com/airbnb/seattle/data?select=listings.csv
 
 ## Python Libraries Used in the project
-numpy
+numpy<br>
 pandas
 datetime
 sklearn.preprocessing.MultiLabelBinarizer
